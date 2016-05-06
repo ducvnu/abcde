@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ruby Intro
 =============
 
@@ -78,3 +79,6 @@ the book formatted with a leading dollar sign and two decimal places, that is, a
 of 20 should format as "$20.00" and a price of 33.8 should format as
 "$33.80".
 
+=======
+# abcde
+>>>>>>> 4591e3e33ca3cdcea1ea70dcc9e14f016d2bfb22
